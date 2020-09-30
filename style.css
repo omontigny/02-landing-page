@@ -2,8 +2,8 @@
 /* font and colors.css */
 
 body {
-    background: rgb(240, 240, 240);
-    color: green;
+    background: rgb(200, 200, 200);
+    color: blue;
     font-size: 25px;
     font-family: 'Open Sans', sans-serif;
     margin: 0;
@@ -30,6 +30,7 @@ a:hover {
     text-decoration: none;
     color: purple;
 }
+
 
 /* Custom design */
 
