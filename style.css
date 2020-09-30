@@ -3,15 +3,16 @@
 
 body {
     background: rgb(230, 230, 230);
-    color: blue;
-    font-size: 25px;
+    color: black;
+    font-size: 18px;
     font-family: 'Open Sans', sans-serif;
     margin: 0;
 }
 
 h1 {
     font-family: 'Montserrat', sans-serif;
-    font-size: 50px;
+    font-size: 60px;
+    font-weight: bold;
     color: red;
 }
 
@@ -19,12 +20,12 @@ h2 {
     font-family: 'Montserrat', sans-serif;
     color: black;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 25px;
 }
 
 a{
     text-decoration: none ;
-    color: blue;
+    color: red;
 }
 a:hover {
     text-decoration: none;
@@ -37,6 +38,7 @@ a:hover {
 .feature {
     widht: 40px;
     text-align: center;
+    text-decoration-color: grey;
 }
 
 #banner {
